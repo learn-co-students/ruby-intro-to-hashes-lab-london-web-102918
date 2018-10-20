@@ -71,9 +71,3 @@ def monopoly_with_fourth_tier
 		}
 	}
 end
-
-
-=begin
-	sets the 2nd key of the :rent_in_dollars hash to a symbol,
-	:two_pieces_owned, whose value is the integer 50
-=end
